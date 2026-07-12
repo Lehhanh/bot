@@ -2,7 +2,7 @@ name: OptiBot daily job
 
 on:
   schedule:
-    - cron: '0 2 * * *' # 02:00 UTC daily (09:00 Vietnam time)
+    - cron: '5 22 * * *' # 5:22 UTC daily (12:22 Vietnam time)
   workflow_dispatch: # allow manual runs from the Actions tab
 
 permissions:
