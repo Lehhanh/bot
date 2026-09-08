@@ -583,11 +583,11 @@
     "slug": "how-to-delete-your-account-from-optisigns",
     "title": "How to Delete Your Account from OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-08-27T15:33:20Z",
-    "hash": "41ded82837c9489bd613705ab638d337",
+    "updated_at": "2026-09-07T08:42:16Z",
+    "hash": "b7f66a971541b40f8e4013f86eea48ef",
     "file": "articles/how-to-delete-your-account-from-optisigns.md",
-    "openai_uploaded_hash": "41ded82837c9489bd613705ab638d337",
-    "openai_file_id": "file-Pwad7j8AWKQG2qAcR7ZxAN"
+    "openai_uploaded_hash": "b7f66a971541b40f8e4013f86eea48ef",
+    "openai_file_id": "file-MjBtRNSgoi2bDryx6kDKYj"
   },
   "1500003244381": {
     "slug": "about-the-onhold-devices-folder",
@@ -843,11 +843,11 @@
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-09-03T14:57:58Z",
-    "hash": "b34bd1df661d18dd75a4d50e1e3c67fe",
+    "updated_at": "2026-09-07T09:51:00Z",
+    "hash": "ba52d0630801099acd80f9e8068d110e",
     "file": "articles/what-do-i-get-with-an-optisigns-free-plan.md",
-    "openai_uploaded_hash": "b34bd1df661d18dd75a4d50e1e3c67fe",
-    "openai_file_id": "file-3F336kG9uFruuhAv4kiXos"
+    "openai_uploaded_hash": "ba52d0630801099acd80f9e8068d110e",
+    "openai_file_id": "file-Y5eGX9UUzCbqBoATjkWH2X"
   },
   "9169378546195": {
     "slug": "data-residency-and-optisigns",
@@ -873,11 +873,11 @@
     "slug": "how-to-use-the-live-tv-with-ads-app",
     "title": "How to Use the Live TV with Ads App",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
-    "updated_at": "2026-09-04T18:30:12Z",
-    "hash": "b98e1b19e8fc86aa106e6afb0fc884e7",
+    "updated_at": "2026-09-07T09:04:05Z",
+    "hash": "c09e4f21259d26280a93c8d76b7c1ab0",
     "file": "articles/how-to-use-the-live-tv-with-ads-app.md",
-    "openai_uploaded_hash": "b98e1b19e8fc86aa106e6afb0fc884e7",
-    "openai_file_id": "file-TxUsUJ59jF78EtKtrfjzRN"
+    "openai_uploaded_hash": "c09e4f21259d26280a93c8d76b7c1ab0",
+    "openai_file_id": "file-Uvdkh86LqgeCL2qswZZjkk"
   },
   "38680194603155": {
     "slug": "promax",
@@ -908,5 +908,35 @@
     "file": "articles/navigating-through-optisigns-template-library.md",
     "openai_uploaded_hash": "4149a2c0aaa4cfad66e0b201dffb7dac",
     "openai_file_id": "file-47cCPKfij4G7jAKJcKf7wT"
+  },
+  "4404616314515": {
+    "slug": "how-to-change-account-owners",
+    "title": "How to Change Account Owners",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
+    "updated_at": "2026-09-07T10:13:21Z",
+    "hash": "85cf4344ce84ae0e85c3c2d7c4fe696c",
+    "file": "articles/how-to-change-account-owners.md",
+    "openai_uploaded_hash": "85cf4344ce84ae0e85c3c2d7c4fe696c",
+    "openai_file_id": "file-9E5RcQYM1GbewDB9GfyB7i"
+  },
+  "4417940565139": {
+    "slug": "how-to-display-microsoft-teams-on-optisigns",
+    "title": "How to display Microsoft Teams on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
+    "updated_at": "2026-09-07T09:37:05Z",
+    "hash": "2995e407205495b89871ab63d7b5b9cb",
+    "file": "articles/how-to-display-microsoft-teams-on-optisigns.md",
+    "openai_uploaded_hash": "2995e407205495b89871ab63d7b5b9cb",
+    "openai_file_id": "file-NwjRCnvrEPd7rST2i6bicj"
+  },
+  "31860170199955": {
+    "slug": "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync",
+    "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
+    "updated_at": "2026-09-07T01:18:36Z",
+    "hash": "662bd9aff99df15dc67aea7e30474c97",
+    "file": "articles/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md",
+    "openai_uploaded_hash": "662bd9aff99df15dc67aea7e30474c97",
+    "openai_file_id": "file-EQzUmsdcgLopAmczN1Lpw6"
   }
 }
