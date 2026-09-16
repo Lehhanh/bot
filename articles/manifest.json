@@ -1658,5 +1658,55 @@
     "file": "articles/show-youtube-video-s-subtitle-closed-caption.md",
     "openai_uploaded_hash": "f5c52a78ce1af4d8f2417249f25ebc5b",
     "openai_file_id": "file-Kxusr8BgpGg5JuhMuGZRYH"
+  },
+  "55450681344915": {
+    "slug": "connect-sharepoint-news-to-optisigns-digital-signage",
+    "title": "Connect SharePoint News to OptiSigns Digital Signage",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+    "updated_at": "2026-09-15T23:09:01Z",
+    "hash": "c09a8beea924b1bcba423c8954b033a5",
+    "file": "articles/connect-sharepoint-news-to-optisigns-digital-signage.md",
+    "openai_uploaded_hash": "c09a8beea924b1bcba423c8954b033a5",
+    "openai_file_id": "file-CzEPLKh9fx7AgLgADAvS52"
+  },
+  "55416186918163": {
+    "slug": "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast",
+    "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+    "updated_at": "2026-09-15T17:33:06Z",
+    "hash": "e5906b906115a823967c94786a50e4e6",
+    "file": "articles/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
+    "openai_uploaded_hash": "e5906b906115a823967c94786a50e4e6",
+    "openai_file_id": "file-QEYJGtzBKuyz3nSK2W5W6v"
+  },
+  "55416185869331": {
+    "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards",
+    "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+    "updated_at": "2026-09-15T15:34:23Z",
+    "hash": "6902b63232f8a44b9d9c4c7c12600402",
+    "file": "articles/broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+    "openai_uploaded_hash": "6902b63232f8a44b9d9c4c7c12600402",
+    "openai_file_id": "file-2J5yFeo8nCQ7bhDqLiUjjJ"
+  },
+  "360056977214": {
+    "slug": "how-to-use-google-sheets-with-optisigns",
+    "title": "How to use Google Sheets with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
+    "updated_at": "2026-09-15T14:05:54Z",
+    "hash": "705c20d4413f4b8cea66ba2c84241b95",
+    "file": "articles/how-to-use-google-sheets-with-optisigns.md",
+    "openai_uploaded_hash": "705c20d4413f4b8cea66ba2c84241b95",
+    "openai_file_id": "file-9UHM352DDVTcu4b9hb53FE"
+  },
+  "360047499893": {
+    "slug": "how-to-use-google-traffic-app",
+    "title": "How to use Google Traffic App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
+    "updated_at": "2026-09-15T11:32:26Z",
+    "hash": "acf9e4f2fcf2d29d1a607b62a71c81c3",
+    "file": "articles/how-to-use-google-traffic-app.md",
+    "openai_uploaded_hash": "acf9e4f2fcf2d29d1a607b62a71c81c3",
+    "openai_file_id": "file-4hQNJmDcaUfRpKdMcCQfJD"
   }
 }
