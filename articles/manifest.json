@@ -23,11 +23,11 @@
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "title": "Whitelist OptiSigns IP addresses & ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-03T14:57:04Z",
-    "hash": "7e43e51f2a14d09fa8a9eab32f6ea49a",
+    "updated_at": "2026-09-17T15:37:11Z",
+    "hash": "df4d0a9812760b7bc5e3c6e881006de1",
     "file": "articles/whitelist-optisigns-ip-addresses-ports.md",
-    "openai_uploaded_hash": "7e43e51f2a14d09fa8a9eab32f6ea49a",
-    "openai_file_id": "file-XK93o8CiXjP3cACd1cPCMj"
+    "openai_uploaded_hash": "df4d0a9812760b7bc5e3c6e881006de1",
+    "openai_file_id": "file-HywY4pWynsVgRQUbSHMfbY"
   },
   "360056086653": {
     "slug": "how-to-change-time-zone-on-your-fire-stick-device",
@@ -793,11 +793,11 @@
     "slug": "assign-content-to-your-screens",
     "title": "Assign content to your screens",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-    "updated_at": "2026-09-01T22:55:42Z",
-    "hash": "2ac4fbc6a10d45f2aa4094c61d90b177",
+    "updated_at": "2026-09-17T10:07:46Z",
+    "hash": "4c760ca6ee0f30930bdb35bd76e5ef44",
     "file": "articles/assign-content-to-your-screens.md",
-    "openai_uploaded_hash": "2ac4fbc6a10d45f2aa4094c61d90b177",
-    "openai_file_id": "file-1Xv8X8DVkB79jh2wMtXo3Q"
+    "openai_uploaded_hash": "4c760ca6ee0f30930bdb35bd76e5ef44",
+    "openai_file_id": "file-DXNvtGsLmpLEGo3es9N6ts"
   },
   "30304278652563": {
     "slug": "how-to-use-the-mobile-app-for-remote-control",
@@ -1718,5 +1718,25 @@
     "file": "articles/how-to-use-google-trends-app.md",
     "openai_uploaded_hash": "edad94bffc99d5d158c4c70d3b6517db",
     "openai_file_id": "file-FuGWjmmt2Lcb8s6SeQRxvc"
+  },
+  "10159088954387": {
+    "slug": "how-to-put-live-tv-on-your-screens-with-optisigns",
+    "title": "How to put Live TV on your screens with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
+    "updated_at": "2026-09-17T05:00:57Z",
+    "hash": "4582494d79d6fdc98961dc01afd9a051",
+    "file": "articles/how-to-put-live-tv-on-your-screens-with-optisigns.md",
+    "openai_uploaded_hash": "4582494d79d6fdc98961dc01afd9a051",
+    "openai_file_id": "file-HC3vZ7JqaM9NpSWPShveUG"
+  },
+  "360016833514": {
+    "slug": "changing-screen-s-orientation-portrait-landscape",
+    "title": "Changing screen's orientation (portrait & landscape)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
+    "updated_at": "2026-09-17T04:18:56Z",
+    "hash": "97622a94951e796450d8436a274f8f3d",
+    "file": "articles/changing-screen-s-orientation-portrait-landscape.md",
+    "openai_uploaded_hash": "97622a94951e796450d8436a274f8f3d",
+    "openai_file_id": "file-28g3yj8GarZQyksigG9Cz1"
   }
 }
