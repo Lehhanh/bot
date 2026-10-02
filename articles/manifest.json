@@ -523,11 +523,11 @@
     "slug": "displaying-sharepoint-sites-on-optisigns",
     "title": "Displaying SharePoint Sites on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-    "updated_at": "2026-07-29T21:56:37Z",
-    "hash": "da1ca4d25304b76db28fe4a0571dfbfc",
+    "updated_at": "2026-10-01T16:01:20Z",
+    "hash": "666ca297ab74b96709fc1ffb3e5b7c3a",
     "file": "articles/displaying-sharepoint-sites-on-optisigns.md",
-    "openai_uploaded_hash": "da1ca4d25304b76db28fe4a0571dfbfc",
-    "openai_file_id": "file-Rm42HLSchXdJksWCgM7AMu"
+    "openai_uploaded_hash": "666ca297ab74b96709fc1ffb3e5b7c3a",
+    "openai_file_id": "file-DCPH7t8rVSZEe7H6NwdZyT"
   },
   "360042736794": {
     "slug": "how-to-set-an-asset-to-live-or-expire-at-specific-time",
@@ -920,14 +920,14 @@
     "openai_file_id": "file-9E5RcQYM1GbewDB9GfyB7i"
   },
   "4417940565139": {
-    "slug": "how-to-display-microsoft-teams-on-optisigns",
-    "title": "How to display Microsoft Teams on OptiSigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
-    "updated_at": "2026-09-07T09:37:05Z",
-    "hash": "2995e407205495b89871ab63d7b5b9cb",
-    "file": "articles/how-to-display-microsoft-teams-on-optisigns.md",
-    "openai_uploaded_hash": "2995e407205495b89871ab63d7b5b9cb",
-    "openai_file_id": "file-NwjRCnvrEPd7rST2i6bicj"
+    "slug": "how-to-display-microsoft-teams-chat-on-optisigns",
+    "title": "How to Display Microsoft Teams Chat on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
+    "updated_at": "2026-10-01T20:13:18Z",
+    "hash": "3c332c7ead5ceed1e4b511532afc5e00",
+    "file": "articles/how-to-display-microsoft-teams-chat-on-optisigns.md",
+    "openai_uploaded_hash": "3c332c7ead5ceed1e4b511532afc5e00",
+    "openai_file_id": "file-3SdcuzAce5pdXFxKM2MJmC"
   },
   "31860170199955": {
     "slug": "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync",
@@ -1988,5 +1988,75 @@
     "file": "articles/how-to-use-microsoft-powerpoint-with-optisigns.md",
     "openai_uploaded_hash": "8663b6bc7103ffbc5d7c95e5b6f9683e",
     "openai_file_id": "file-24obSqX6wEK98VSqjGwhi4"
+  },
+  "4407335862931": {
+    "slug": "how-to-use-the-slack-app",
+    "title": "How to Use the Slack App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App",
+    "updated_at": "2026-10-01T21:46:16Z",
+    "hash": "1a91cbddd2a0274d820e2d487335befb",
+    "file": "articles/how-to-use-the-slack-app.md",
+    "openai_uploaded_hash": "1a91cbddd2a0274d820e2d487335befb",
+    "openai_file_id": "file-53HNggT2NV7v3aQQDX31r6"
+  },
+  "360050665413": {
+    "slug": "how-to-use-the-dropbox-app",
+    "title": "How to Use the Dropbox App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
+    "updated_at": "2026-10-01T21:20:35Z",
+    "hash": "3265b2fefd668afbc3e975b54fb2d081",
+    "file": "articles/how-to-use-the-dropbox-app.md",
+    "openai_uploaded_hash": "3265b2fefd668afbc3e975b54fb2d081",
+    "openai_file_id": "file-KdzWDRimXhBygqcT5VKpc9"
+  },
+  "4408946045715": {
+    "slug": "how-to-integrate-bonusly-digital-signage-with-optisigns",
+    "title": "How to Integrate Bonusly Digital Signage with Optisigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
+    "updated_at": "2026-10-01T20:21:01Z",
+    "hash": "0e329575ddf80f5ced3dd64edcd432ea",
+    "file": "articles/how-to-integrate-bonusly-digital-signage-with-optisigns.md",
+    "openai_uploaded_hash": "0e329575ddf80f5ced3dd64edcd432ea",
+    "openai_file_id": "file-QM1mtdg8XFhLGk4aQHtcXA"
+  },
+  "27356288211859": {
+    "slug": "how-to-use-icloud-calendar-with-optisigns",
+    "title": "How to Use iCloud Calendar with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
+    "updated_at": "2026-10-01T19:37:52Z",
+    "hash": "f246fef8032c9afa46daee87b8482274",
+    "file": "articles/how-to-use-icloud-calendar-with-optisigns.md",
+    "openai_uploaded_hash": "f246fef8032c9afa46daee87b8482274",
+    "openai_file_id": "file-KABjqrDn178ceeZKquzBur"
+  },
+  "4404053129619": {
+    "slug": "how-to-use-the-microsoft-teams-meeting-app",
+    "title": "How to Use the Microsoft Teams Meeting App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
+    "updated_at": "2026-10-01T19:33:01Z",
+    "hash": "7328255e6b99a63f9325b7616f98decf",
+    "file": "articles/how-to-use-the-microsoft-teams-meeting-app.md",
+    "openai_uploaded_hash": "7328255e6b99a63f9325b7616f98decf",
+    "openai_file_id": "file-JMyUZS6ZqH172jQee1LL3E"
+  },
+  "360041222994": {
+    "slug": "how-to-use-the-countup-app",
+    "title": "How to Use the CountUp App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
+    "updated_at": "2026-10-01T17:24:51Z",
+    "hash": "272f4ca146fc5a0c635035195173c718",
+    "file": "articles/how-to-use-the-countup-app.md",
+    "openai_uploaded_hash": "272f4ca146fc5a0c635035195173c718",
+    "openai_file_id": "file-R2AbdqsXuzA73oRiwE4N6Z"
+  },
+  "360036250853": {
+    "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
+    "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
+    "updated_at": "2026-10-01T15:00:40Z",
+    "hash": "845315502abe3c80afebda00dca776c7",
+    "file": "articles/how-to-use-microsoft-outlook-calendar-with-optisigns.md",
+    "openai_uploaded_hash": "845315502abe3c80afebda00dca776c7",
+    "openai_file_id": "file-UuRi3qdYNMjLFC5g5mC8K8"
   }
 }
