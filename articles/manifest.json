@@ -1633,11 +1633,11 @@
     "slug": "how-to-manage-and-edit-your-playlist-settings",
     "title": "How to Manage and Edit Your Playlist Settings",
     "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "updated_at": "2026-09-14T16:01:05Z",
-    "hash": "eae739612d08bd58bf1c26e539d8e84b",
+    "updated_at": "2026-10-12T21:22:30Z",
+    "hash": "372087bc2ae3fccb37b9e8914719030b",
     "file": "articles/how-to-manage-and-edit-your-playlist-settings.md",
-    "openai_uploaded_hash": "eae739612d08bd58bf1c26e539d8e84b",
-    "openai_file_id": "file-CaD4DDEUU545Hionbmrsah"
+    "openai_uploaded_hash": "372087bc2ae3fccb37b9e8914719030b",
+    "openai_file_id": "file-9ss95opNk1VDQMuTMNGYmL"
   },
   "13320135306515": {
     "slug": "build-integrations-using-the-optisigns-enterprise-app",
@@ -1913,11 +1913,11 @@
     "slug": "how-to-display-salesforce-dashboards-and-reports-on-optisigns",
     "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-    "updated_at": "2026-09-29T19:44:32Z",
-    "hash": "40701068217272f86665c99fcd7da6da",
+    "updated_at": "2026-10-12T20:31:04Z",
+    "hash": "7fdfd5fda4a16924fe274df82851d95d",
     "file": "articles/how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
-    "openai_uploaded_hash": "40701068217272f86665c99fcd7da6da",
-    "openai_file_id": "file-GhHJtUebpq5Ynwir3mrsoJ"
+    "openai_uploaded_hash": "7fdfd5fda4a16924fe274df82851d95d",
+    "openai_file_id": "file-8X1zoY9eU212TzkzKmxmm6"
   },
   "55906396437523": {
     "slug": "how-to-use-the-weather-radar-app",
@@ -2118,5 +2118,45 @@
     "file": "articles/powerpoint-resolution-size-for-use-with-digital-signage.md",
     "openai_uploaded_hash": "e1daa1e83a27fc60e1761e55d7a8c7b3",
     "openai_file_id": "file-1JA5uGJz4m1AdH1WcBbxDZ"
+  },
+  "360016342373": {
+    "slug": "what-types-of-files-are-supported",
+    "title": "What types of files are supported?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported",
+    "updated_at": "2026-10-13T01:42:44Z",
+    "hash": "a1403916a2150d72b3c35ba556ed9663",
+    "file": "articles/what-types-of-files-are-supported.md",
+    "openai_uploaded_hash": "a1403916a2150d72b3c35ba556ed9663",
+    "openai_file_id": "file-6JAWdzVuMpeS8fBqKkQxWH"
+  },
+  "360016254994": {
+    "slug": "how-to-display-vimeo-videos-with-optisigns",
+    "title": "How to Display Vimeo Videos with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
+    "updated_at": "2026-10-12T20:49:41Z",
+    "hash": "838e34cd325936f24a4af4efd7b7a1e2",
+    "file": "articles/how-to-display-vimeo-videos-with-optisigns.md",
+    "openai_uploaded_hash": "838e34cd325936f24a4af4efd7b7a1e2",
+    "openai_file_id": "file-2fjpYwWSk3duRqvumFkYnk"
+  },
+  "31113088917907": {
+    "slug": "how-to-use-toast-api-data-with-optisigns",
+    "title": "How to Use Toast API Data with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-Use-Toast-API-Data-with-OptiSigns",
+    "updated_at": "2026-10-12T18:49:12Z",
+    "hash": "e418d0f7a83eb9ead9c23960f9bcb0ca",
+    "file": "articles/how-to-use-toast-api-data-with-optisigns.md",
+    "openai_uploaded_hash": "e418d0f7a83eb9ead9c23960f9bcb0ca",
+    "openai_file_id": "file-Da8wYdUs8zCE5gTMtHEYdt"
+  },
+  "8399990754195": {
+    "slug": "how-to-display-a-smartsheet-report-on-optisigns",
+    "title": "How to Display a Smartsheet Report on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-Display-a-Smartsheet-Report-on-OptiSigns",
+    "updated_at": "2026-10-12T18:33:37Z",
+    "hash": "ec3a4234a3cc07218a969776412e03e3",
+    "file": "articles/how-to-display-a-smartsheet-report-on-optisigns.md",
+    "openai_uploaded_hash": "ec3a4234a3cc07218a969776412e03e3",
+    "openai_file_id": "file-8GA8jrD4EME1kimi567gSQ"
   }
 }
